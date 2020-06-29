@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "build": "date > public/index2.html"
+    },
+    "devDependencies": {
+        "@types/node": "^14.0.14",
+        "@vercel/node": "^1.7.1"
+    }
+}
